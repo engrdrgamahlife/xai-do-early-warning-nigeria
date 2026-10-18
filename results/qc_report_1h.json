@@ -1,0 +1,264 @@
+{
+  "files": {
+    "IoT_Pond10.csv": {
+      "pond": 10,
+      "raw_rows": 21233,
+      "span": [
+        "2021-06-18 12:12:48",
+        "2021-06-29 14:47:06"
+      ],
+      "fraction_invalid": {
+        "Temp": 0.0,
+        "pH": 0.0,
+        "Turbidity": 0.037,
+        "DO": 0.756
+      },
+      "windows_kept": 91,
+      "turbidity_pinned_100_share": 0.0
+    },
+    "IoT_Pond11.csv": {
+      "pond": 11,
+      "raw_rows": 113,
+      "span": [
+        "2021-06-25 15:50:16",
+        "2021-06-28 09:35:23"
+      ],
+      "fraction_invalid": {
+        "Temp": 0.0,
+        "pH": 0.0,
+        "Turbidity": 0.0,
+        "DO": 0.593
+      },
+      "windows_kept": 2,
+      "excluded": "fewer than 24 valid 1h windows"
+    },
+    "IoT_Pond12.csv": {
+      "pond": 12,
+      "raw_rows": 118,
+      "span": [
+        "2021-06-25 15:14:07",
+        "2021-06-28 06:40:10"
+      ],
+      "fraction_invalid": {
+        "Temp": 0.0,
+        "pH": 0.0,
+        "Turbidity": 0.0,
+        "DO": 0.237
+      },
+      "windows_kept": 2,
+      "excluded": "fewer than 24 valid 1h windows"
+    },
+    "IoT_Pond13.csv": {
+      "pond": 13,
+      "raw_rows": 27,
+      "span": [
+        "2021-06-25 15:14:09",
+        "2021-06-25 15:30:56"
+      ],
+      "fraction_invalid": {
+        "Temp": 0.0,
+        "pH": 0.0,
+        "Turbidity": 0.0,
+        "DO": 0.519
+      },
+      "windows_kept": 1,
+      "excluded": "fewer than 24 valid 1h windows"
+    },
+    "IoT_Pond2.csv": {
+      "pond": 2,
+      "raw_rows": 24494,
+      "span": [
+        "2021-06-18 12:38:46",
+        "2021-06-30 17:56:01"
+      ],
+      "fraction_invalid": {
+        "Temp": 0.0,
+        "pH": 0.0,
+        "Turbidity": 0.003,
+        "DO": 0.623
+      },
+      "windows_kept": 124,
+      "turbidity_pinned_100_share": 0.0
+    },
+    "IoT_Pond3.csv": {
+      "pond": 3,
+      "raw_rows": 21369,
+      "span": [
+        "2021-06-18 12:44:46",
+        "2021-06-30 18:00:56"
+      ],
+      "fraction_invalid": {
+        "Temp": 0.0,
+        "pH": 0.0,
+        "Turbidity": 0.0,
+        "DO": 0.483
+      },
+      "windows_kept": 168,
+      "turbidity_pinned_100_share": 0.577
+    },
+    "IoT_Pond4.csv": {
+      "pond": 4,
+      "raw_rows": 24332,
+      "span": [
+        "2021-06-18 13:02:10",
+        "2021-06-30 18:04:18"
+      ],
+      "fraction_invalid": {
+        "Temp": 0.0,
+        "pH": 0.0,
+        "Turbidity": 0.0,
+        "DO": 0.489
+      },
+      "windows_kept": 142,
+      "turbidity_pinned_100_share": 0.0
+    },
+    "IoT_Pond5.csv": {
+      "pond": 5,
+      "raw_rows": 23804,
+      "span": [
+        "2021-06-18 13:06:49",
+        "2021-06-30 18:08:17"
+      ],
+      "fraction_invalid": {
+        "Temp": 0.0,
+        "pH": 0.0,
+        "Turbidity": 0.02,
+        "DO": 0.326
+      },
+      "windows_kept": 192,
+      "turbidity_pinned_100_share": 0.0
+    },
+    "IoT_Pond6.csv": {
+      "pond": 6,
+      "raw_rows": 59826,
+      "excluded": "missing columns ['DO', 'Temp', 'Turbidity', 'pH'] (no timestamps or unlabeled fields)"
+    },
+    "IoT_Pond7.csv": {
+      "pond": 7,
+      "raw_rows": 20790,
+      "span": [
+        "2021-06-18 11:51:13",
+        "2021-06-29 14:40:27"
+      ],
+      "fraction_invalid": {
+        "Temp": 0.0,
+        "pH": 0.0,
+        "Turbidity": 0.0,
+        "DO": 0.226
+      },
+      "windows_kept": 171,
+      "turbidity_pinned_100_share": 1.0
+    },
+    "IoT_Pond8.csv": {
+      "pond": 8,
+      "raw_rows": 21525,
+      "span": [
+        "2021-06-18 11:51:16",
+        "2021-06-29 14:41:46"
+      ],
+      "fraction_invalid": {
+        "Temp": 0.0,
+        "pH": 0.0,
+        "Turbidity": 0.0,
+        "DO": 0.239
+      },
+      "windows_kept": 180,
+      "turbidity_pinned_100_share": 0.161
+    },
+    "IoT_Pond9.csv": {
+      "pond": 9,
+      "raw_rows": 21152,
+      "span": [
+        "2021-06-18 12:56:59",
+        "2021-06-29 14:42:43"
+      ],
+      "fraction_invalid": {
+        "Temp": 0.0,
+        "pH": 0.0,
+        "Turbidity": 0.0,
+        "DO": 0.294
+      },
+      "windows_kept": 178,
+      "turbidity_pinned_100_share": 0.219
+    },
+    "IoT_pond1.csv": {
+      "pond": 1,
+      "raw_rows": 50927,
+      "excluded": "missing columns ['time'] (no timestamps or unlabeled fields)"
+    }
+  },
+  "rules": {
+    "Temp": "keep 15-40 degC; -127 is the DS18B20 disconnection code",
+    "pH": "keep 4-11",
+    "Turbidity": "keep 0-100 (sensor output range); windows where turbidity is pinned at 100 are flagged",
+    "DO": "drop exact 0 (probe dropout) and values > 20 mg/L (above ~250% saturation at 25 degC, physically implausible)",
+    "Ammonia/Nitrate": "excluded: non-finite values and magnitudes up to 1e4 mg/L indicate uncalibrated output",
+    "aggregation": "per pond, 1h windows, median of valid readings, window kept if >= 10 valid readings of every variable"
+  },
+  "final": {
+    "rows": 1246,
+    "ponds": [
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10
+    ],
+    "rows_per_pond": {
+      "2": 124,
+      "3": 168,
+      "4": 142,
+      "5": 192,
+      "7": 171,
+      "8": 180,
+      "9": 178,
+      "10": 91
+    },
+    "describe": {
+      "Temp": {
+        "count": 1246.0,
+        "mean": 24.805,
+        "std": 0.874,
+        "min": 22.812,
+        "25%": 24.188,
+        "50%": 24.688,
+        "75%": 25.375,
+        "max": 27.125
+      },
+      "pH": {
+        "count": 1246.0,
+        "mean": 7.882,
+        "std": 0.488,
+        "min": 4.879,
+        "25%": 7.45,
+        "50%": 7.957,
+        "75%": 8.275,
+        "max": 8.642
+      },
+      "Turbidity": {
+        "count": 1246.0,
+        "mean": 63.103,
+        "std": 32.778,
+        "min": 4.0,
+        "25%": 33.0,
+        "50%": 69.0,
+        "75%": 100.0,
+        "max": 100.0
+      },
+      "DO": {
+        "count": 1246.0,
+        "mean": 8.894,
+        "std": 4.19,
+        "min": 0.188,
+        "25%": 5.784,
+        "50%": 8.488,
+        "75%": 11.929,
+        "max": 19.543
+      }
+    },
+    "median_within_window_DO_IQR": 3.0035
+  }
+}

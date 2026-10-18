@@ -1,0 +1,44 @@
+{
+ "1": {
+  "damped": {
+   "R2": 0.842,
+   "RMSE": 1.538
+  },
+  "hybrid_LGBM": {
+   "R2": 0.837,
+   "RMSE": 1.564
+  },
+  "anomaly_linear": {
+   "R2": 0.837,
+   "RMSE": 1.561
+  }
+ },
+ "3": {
+  "damped": {
+   "R2": 0.621,
+   "RMSE": 2.379
+  },
+  "hybrid_LGBM": {
+   "R2": 0.577,
+   "RMSE": 2.513
+  },
+  "anomaly_linear": {
+   "R2": 0.596,
+   "RMSE": 2.457
+  }
+ },
+ "6": {
+  "damped": {
+   "R2": 0.388,
+   "RMSE": 3.052
+  },
+  "hybrid_LGBM": {
+   "R2": 0.234,
+   "RMSE": 3.413
+  },
+  "anomaly_linear": {
+   "R2": 0.301,
+   "RMSE": 3.261
+  }
+ }
+}
